@@ -7,3 +7,4 @@ python -m ipykernel install --user --name=$1
 
 pip install gymnasium
 pip install gymnasium[atari]
+pip install supersuit
